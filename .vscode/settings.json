@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/windows",
+    "cSpell.language": "en,ar",
+    "cSpell.words": [
+        "fromjson"
+    ]
+}
